@@ -16,7 +16,7 @@ class ConfigData {
     private int customerPurchaseRate;
     private int maxStorage;
 
-    // Getters and Setters
+    // use geters  and setters
     public int getTotalTicketsAvailable() {
         return totalTicketsAvailable;
     }
@@ -49,6 +49,7 @@ class ConfigData {
         this.maxStorage = maxStorage;
     }
 
+    //showing all configuration  detaills.
     @Override
     public String toString() {
         return "ConfigData { " +

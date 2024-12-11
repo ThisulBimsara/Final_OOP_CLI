@@ -1,10 +1,8 @@
 package org.example;
-
 import com.google.gson.Gson;
 import org.example.ConfigData;
 import org.example.TicketManager;
 import org.example.TransactionLogger;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;

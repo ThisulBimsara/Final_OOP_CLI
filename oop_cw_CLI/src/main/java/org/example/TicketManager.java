@@ -34,15 +34,16 @@ class TicketManager {
         public void run() {
             while (isActive) {
                 synchronized (ticketBox) {
-
-                    // Add a ticket if there's space in the ticket box.
-                    if (ticketBox.getAvailableTicketsCount() < settings.getMaxStorage()) {
+                    int availableTickets = ticketBox.getAvailableTicketsCount();
+                    if (availableTickets >= settings.getMaxStorage()) {
+                        System.out.println("Max capacity reached. Vendor can't add tickets.");
+                        logger.log("Max capacity reached. Vendor can't add tickets.");
+                    } else {
                         ticketBox.addTickets(1); // Add one ticket at a time
                         logger.log("Added 1 ticket. Total available: " + ticketBox.getAvailableTicketsCount());
                     }
                 }
                 try {
-                    // Calculate sleep time based on the ticket addition rate.
                     int sleepTime = settings.getTicketAddRate() > 0 ? (1000 / settings.getTicketAddRate()) : 1000;
                     Thread.sleep(sleepTime);
                 } catch (InterruptedException e) {
@@ -52,15 +53,21 @@ class TicketManager {
         }
     }
 
+
     private class CustomerBuyer implements Runnable {
         @Override
         public void run() {
             while (isActive) {
                 synchronized (ticketBox) {
-                    if (ticketBox.buyTicket()) {
+                    int availableTickets = ticketBox.getAvailableTicketsCount();
+                    if (availableTickets == 0) {
+                        System.out.println("No tickets available. Wait until the vendor adds tickets.");
+                        logger.log("No tickets available. Wait until the vendor adds tickets.");
+                    } else if (availableTickets >= settings.getMaxStorage()) {
+                        System.out.println("Maximum capacity full. Tickets can't be purchased.");
+                        logger.log("Maximum capacity full. Tickets can't be purchased.");
+                    } else if (ticketBox.buyTicket()) {
                         logger.log("Ticket purchased. Remaining tickets: " + ticketBox.getAvailableTicketsCount());
-                    } else {
-                        logger.log("Attempted to purchase ticket but none were available.");
                     }
                 }
                 try {
@@ -72,4 +79,5 @@ class TicketManager {
             }
         }
     }
+
 }

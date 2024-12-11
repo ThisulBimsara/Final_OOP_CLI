@@ -1,114 +1,658 @@
 [
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Added 1 ticket. Total available: 5"
+    "timestamp": "2024-12-11 13:41:06",
+    "message": "Added 1 ticket. Total available: 51"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Ticket purchased. Remaining tickets: 4"
+    "timestamp": "2024-12-11 13:41:06",
+    "message": "Ticket purchased. Remaining tickets: 50"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:06",
+    "message": "Ticket purchased. Remaining tickets: 49"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:07",
+    "message": "Added 1 ticket. Total available: 50"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Added 1 ticket. Total available: 5"
+    "timestamp": "2024-12-11 13:41:07",
+    "message": "Ticket purchased. Remaining tickets: 49"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Ticket purchased. Remaining tickets: 4"
+    "timestamp": "2024-12-11 13:41:07",
+    "message": "Ticket purchased. Remaining tickets: 48"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:07",
+    "message": "Added 1 ticket. Total available: 49"
   },
   {
-    "timestamp": "2024-12-10 13:27:46",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:07",
+    "message": "Ticket purchased. Remaining tickets: 48"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:08",
+    "message": "Added 1 ticket. Total available: 49"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:08",
+    "message": "Ticket purchased. Remaining tickets: 48"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:08",
+    "message": "Ticket purchased. Remaining tickets: 47"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:08",
+    "message": "Added 1 ticket. Total available: 48"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:08",
+    "message": "Ticket purchased. Remaining tickets: 47"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:09",
+    "message": "Added 1 ticket. Total available: 48"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Added 1 ticket. Total available: 5"
+    "timestamp": "2024-12-11 13:41:09",
+    "message": "Ticket purchased. Remaining tickets: 47"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Ticket purchased. Remaining tickets: 4"
+    "timestamp": "2024-12-11 13:41:09",
+    "message": "Ticket purchased. Remaining tickets: 46"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Added 1 ticket. Total available: 5"
+    "timestamp": "2024-12-11 13:41:09",
+    "message": "Added 1 ticket. Total available: 47"
   },
   {
-    "timestamp": "2024-12-10 13:27:47",
-    "message": "Ticket purchased. Remaining tickets: 4"
+    "timestamp": "2024-12-11 13:41:09",
+    "message": "Ticket purchased. Remaining tickets: 46"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:10",
+    "message": "Added 1 ticket. Total available: 47"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:10",
+    "message": "Ticket purchased. Remaining tickets: 46"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:10",
+    "message": "Ticket purchased. Remaining tickets: 45"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:10",
+    "message": "Added 1 ticket. Total available: 46"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:10",
+    "message": "Ticket purchased. Remaining tickets: 45"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:11",
+    "message": "Added 1 ticket. Total available: 46"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:11",
+    "message": "Ticket purchased. Remaining tickets: 45"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:11",
+    "message": "Ticket purchased. Remaining tickets: 44"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Ticket purchased. Remaining tickets: 3"
+    "timestamp": "2024-12-11 13:41:11",
+    "message": "Added 1 ticket. Total available: 45"
   },
   {
-    "timestamp": "2024-12-10 13:27:48",
-    "message": "Added 1 ticket. Total available: 4"
+    "timestamp": "2024-12-11 13:41:11",
+    "message": "Ticket purchased. Remaining tickets: 44"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:12",
+    "message": "Added 1 ticket. Total available: 45"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:12",
+    "message": "Ticket purchased. Remaining tickets: 44"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:12",
+    "message": "Ticket purchased. Remaining tickets: 43"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:12",
+    "message": "Added 1 ticket. Total available: 44"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:12",
+    "message": "Ticket purchased. Remaining tickets: 43"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:13",
+    "message": "Added 1 ticket. Total available: 44"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:13",
+    "message": "Ticket purchased. Remaining tickets: 43"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:13",
+    "message": "Ticket purchased. Remaining tickets: 42"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:13",
+    "message": "Added 1 ticket. Total available: 43"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:13",
+    "message": "Ticket purchased. Remaining tickets: 42"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:14",
+    "message": "Added 1 ticket. Total available: 43"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:14",
+    "message": "Ticket purchased. Remaining tickets: 42"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:14",
+    "message": "Ticket purchased. Remaining tickets: 41"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:14",
+    "message": "Added 1 ticket. Total available: 42"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:14",
+    "message": "Ticket purchased. Remaining tickets: 41"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:15",
+    "message": "Added 1 ticket. Total available: 42"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:15",
+    "message": "Ticket purchased. Remaining tickets: 41"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:15",
+    "message": "Ticket purchased. Remaining tickets: 40"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:15",
+    "message": "Added 1 ticket. Total available: 41"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:15",
+    "message": "Ticket purchased. Remaining tickets: 40"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:16",
+    "message": "Added 1 ticket. Total available: 41"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:16",
+    "message": "Ticket purchased. Remaining tickets: 40"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:16",
+    "message": "Ticket purchased. Remaining tickets: 39"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:16",
+    "message": "Added 1 ticket. Total available: 40"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:16",
+    "message": "Ticket purchased. Remaining tickets: 39"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:17",
+    "message": "Added 1 ticket. Total available: 40"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:17",
+    "message": "Ticket purchased. Remaining tickets: 39"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:17",
+    "message": "Ticket purchased. Remaining tickets: 38"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:17",
+    "message": "Added 1 ticket. Total available: 39"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:17",
+    "message": "Ticket purchased. Remaining tickets: 38"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:18",
+    "message": "Added 1 ticket. Total available: 39"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:18",
+    "message": "Ticket purchased. Remaining tickets: 38"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:18",
+    "message": "Ticket purchased. Remaining tickets: 37"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:18",
+    "message": "Added 1 ticket. Total available: 38"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:18",
+    "message": "Ticket purchased. Remaining tickets: 37"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:19",
+    "message": "Added 1 ticket. Total available: 38"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:19",
+    "message": "Ticket purchased. Remaining tickets: 37"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:19",
+    "message": "Ticket purchased. Remaining tickets: 36"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:19",
+    "message": "Added 1 ticket. Total available: 37"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:19",
+    "message": "Ticket purchased. Remaining tickets: 36"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:20",
+    "message": "Added 1 ticket. Total available: 37"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:20",
+    "message": "Ticket purchased. Remaining tickets: 36"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:20",
+    "message": "Ticket purchased. Remaining tickets: 35"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:20",
+    "message": "Added 1 ticket. Total available: 36"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:20",
+    "message": "Ticket purchased. Remaining tickets: 35"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:21",
+    "message": "Added 1 ticket. Total available: 36"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:21",
+    "message": "Ticket purchased. Remaining tickets: 35"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:21",
+    "message": "Ticket purchased. Remaining tickets: 34"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:21",
+    "message": "Added 1 ticket. Total available: 35"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:21",
+    "message": "Ticket purchased. Remaining tickets: 34"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:22",
+    "message": "Added 1 ticket. Total available: 35"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:22",
+    "message": "Ticket purchased. Remaining tickets: 34"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:22",
+    "message": "Ticket purchased. Remaining tickets: 33"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:22",
+    "message": "Added 1 ticket. Total available: 34"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:22",
+    "message": "Ticket purchased. Remaining tickets: 33"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:23",
+    "message": "Added 1 ticket. Total available: 34"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:23",
+    "message": "Ticket purchased. Remaining tickets: 33"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:23",
+    "message": "Ticket purchased. Remaining tickets: 32"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:23",
+    "message": "Added 1 ticket. Total available: 33"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:23",
+    "message": "Ticket purchased. Remaining tickets: 32"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:24",
+    "message": "Added 1 ticket. Total available: 33"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:24",
+    "message": "Ticket purchased. Remaining tickets: 32"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:24",
+    "message": "Ticket purchased. Remaining tickets: 31"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:24",
+    "message": "Added 1 ticket. Total available: 32"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:24",
+    "message": "Ticket purchased. Remaining tickets: 31"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:25",
+    "message": "Added 1 ticket. Total available: 32"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:25",
+    "message": "Ticket purchased. Remaining tickets: 31"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:25",
+    "message": "Ticket purchased. Remaining tickets: 30"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:25",
+    "message": "Added 1 ticket. Total available: 31"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:25",
+    "message": "Ticket purchased. Remaining tickets: 30"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:26",
+    "message": "Added 1 ticket. Total available: 31"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:26",
+    "message": "Ticket purchased. Remaining tickets: 30"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:26",
+    "message": "Ticket purchased. Remaining tickets: 29"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:26",
+    "message": "Added 1 ticket. Total available: 30"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:26",
+    "message": "Ticket purchased. Remaining tickets: 29"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:27",
+    "message": "Added 1 ticket. Total available: 30"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:27",
+    "message": "Ticket purchased. Remaining tickets: 29"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:27",
+    "message": "Ticket purchased. Remaining tickets: 28"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:27",
+    "message": "Added 1 ticket. Total available: 29"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:27",
+    "message": "Ticket purchased. Remaining tickets: 28"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:28",
+    "message": "Added 1 ticket. Total available: 29"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:28",
+    "message": "Ticket purchased. Remaining tickets: 28"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:28",
+    "message": "Ticket purchased. Remaining tickets: 27"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:28",
+    "message": "Added 1 ticket. Total available: 28"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:29",
+    "message": "Ticket purchased. Remaining tickets: 27"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:29",
+    "message": "Added 1 ticket. Total available: 28"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:29",
+    "message": "Ticket purchased. Remaining tickets: 27"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:29",
+    "message": "Ticket purchased. Remaining tickets: 26"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:29",
+    "message": "Added 1 ticket. Total available: 27"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:30",
+    "message": "Ticket purchased. Remaining tickets: 26"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:30",
+    "message": "Added 1 ticket. Total available: 27"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:30",
+    "message": "Ticket purchased. Remaining tickets: 26"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:30",
+    "message": "Ticket purchased. Remaining tickets: 25"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:30",
+    "message": "Added 1 ticket. Total available: 26"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:31",
+    "message": "Ticket purchased. Remaining tickets: 25"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:31",
+    "message": "Added 1 ticket. Total available: 26"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:31",
+    "message": "Ticket purchased. Remaining tickets: 25"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:31",
+    "message": "Ticket purchased. Remaining tickets: 24"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:31",
+    "message": "Added 1 ticket. Total available: 25"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:32",
+    "message": "Ticket purchased. Remaining tickets: 24"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:32",
+    "message": "Added 1 ticket. Total available: 25"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:32",
+    "message": "Ticket purchased. Remaining tickets: 24"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:32",
+    "message": "Ticket purchased. Remaining tickets: 23"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:32",
+    "message": "Added 1 ticket. Total available: 24"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:33",
+    "message": "Ticket purchased. Remaining tickets: 23"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:33",
+    "message": "Added 1 ticket. Total available: 24"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:33",
+    "message": "Ticket purchased. Remaining tickets: 23"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:33",
+    "message": "Ticket purchased. Remaining tickets: 22"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:33",
+    "message": "Added 1 ticket. Total available: 23"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:34",
+    "message": "Ticket purchased. Remaining tickets: 22"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:34",
+    "message": "Added 1 ticket. Total available: 23"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:34",
+    "message": "Ticket purchased. Remaining tickets: 22"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:34",
+    "message": "Ticket purchased. Remaining tickets: 21"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:34",
+    "message": "Added 1 ticket. Total available: 22"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:35",
+    "message": "Ticket purchased. Remaining tickets: 21"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:35",
+    "message": "Added 1 ticket. Total available: 22"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:35",
+    "message": "Ticket purchased. Remaining tickets: 21"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:35",
+    "message": "Ticket purchased. Remaining tickets: 20"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:35",
+    "message": "Added 1 ticket. Total available: 21"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:36",
+    "message": "Ticket purchased. Remaining tickets: 20"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:36",
+    "message": "Added 1 ticket. Total available: 21"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:36",
+    "message": "Ticket purchased. Remaining tickets: 20"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:36",
+    "message": "Ticket purchased. Remaining tickets: 19"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:36",
+    "message": "Added 1 ticket. Total available: 20"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:37",
+    "message": "Ticket purchased. Remaining tickets: 19"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:37",
+    "message": "Added 1 ticket. Total available: 20"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:37",
+    "message": "Ticket purchased. Remaining tickets: 19"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:37",
+    "message": "Ticket purchased. Remaining tickets: 18"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:37",
+    "message": "Added 1 ticket. Total available: 19"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:38",
+    "message": "Ticket purchased. Remaining tickets: 18"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:38",
+    "message": "Added 1 ticket. Total available: 19"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:38",
+    "message": "Ticket purchased. Remaining tickets: 18"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:38",
+    "message": "Ticket purchased. Remaining tickets: 17"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:38",
+    "message": "Added 1 ticket. Total available: 18"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:39",
+    "message": "Ticket purchased. Remaining tickets: 17"
+  },
+  {
+    "timestamp": "2024-12-11 13:41:39",
+    "message": "Added 1 ticket. Total available: 18"
   }
 ]
